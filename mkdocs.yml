@@ -168,5 +168,18 @@ extra:
             Thank you for your feedback! Help us improve by following this <a href="https://docs.google.com/forms/d/1bkWACehjqlwA0AKf-qTJcXvYbOSYgze8iTPXjntqmNo/edit" target="_blank" rel="noopener">feedback form</a>.
 
 nav:
-  - 'Home': 'index.md'
+  - 'Welcome': index.md
+  - 'Getting started':
+      - 'Features': features.md
+      - 'Create an account': account.md
+      - 'Your first database': first-db.md
+  - 'Deployment modes':
+      - 'Public DBaaS': mode-dbaas.md
+      - 'BYOA': mode-byoa.md
+  - 'Services':
+      - 'PostgreSQL': postgresql.md
+      - 'Valkey': valkey.md
+      - 'MySQL': mysql.md
+      - 'FerretDB': ferretdb.md
+  - 'Beta program': beta-program.md
 
