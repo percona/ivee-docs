@@ -8,6 +8,6 @@ Ivee by Percona is a fully managed Database-as-a-Service (DBaaS) that empowers d
 
 ## Try For Free
 
-You can try Ivee for free. Create an account and deploy your first database.
+Create an account and deploy your databases for free.
 
 [Create a free account:material-arrow-right:](https://app.ivee.cloud/singup){.md-button } 
