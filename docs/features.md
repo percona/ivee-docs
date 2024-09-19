@@ -28,6 +28,16 @@ Choose from a variety of popular database technologies:
 
 Ensure your data is always accessible with Ivee's built-in high availability features. Deploy your databases across multiple availability zones for enhanced resilience and uptime.
 
+## Serverless Experience
+
+Optimize costs and resource usage with Ivee's serverless capabilities. 
+Instances are automatically scaled down to zero when not in use, eliminating unnecessary expenses.
+
+## Autoscaling
+
+Handle fluctuating workloads effortlessly with Ivee's autoscaling feature. Compute resources are automatically scaled up or down based on demand, 
+ensuring optimal performance and cost efficiency. Storage is automatically scaled up when disk usage reaches certaing threshold. 
+
 ## Backups and Restores
 
 Safeguard your data with automated backups and easy point-in-time recovery. Restore your database to any specific point in time with just a few clicks.
