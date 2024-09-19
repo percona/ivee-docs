@@ -175,7 +175,7 @@ nav:
       - 'Beta program': beta-program.md
       - 'Free tier': free-tier.md
   - 'Deployment modes':
-      - 'Public DBaaS': deploy/mode-dbaas.md
+      - 'Public DBaaS': deploy/mode-public.md
       - 'Bring Your Own Account': deploy/mode-byoa.md
   - 'Services':
       - 'PostgreSQL': services/postgresql.md
