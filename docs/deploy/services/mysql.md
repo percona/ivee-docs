@@ -3,14 +3,13 @@
 ## The World's Most Popular Open Source Database
 
 MySQL is a powerful, widely-used relational database management system (RDBMS) known for its performance, 
-reliability, and ease of use. With Ivee, you can deploy and manage MySQL databases effortlessly, 
-focusing on your applications instead of database administration.
+reliability, and ease of use. With Ivee, you can deploy and manage [Percona Server for MySQL](https://www.percona.com/mysql/software/percona-server-for-mysql) databases effortlessly, focusing on your applications instead of database administration.
 
 ## Supported Versions
 
 Ivee currently supports the following MySQL versions:
 
-* 5.7 (available under Percona EoL program)
+* 5.7 (available under [Percona EoL program](https://www.percona.com/post-mysql-5-7-eol-support)
 * 8.0 (the only version available in a Free Tier)
 * 8.4
 
