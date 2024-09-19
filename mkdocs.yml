@@ -170,9 +170,10 @@ extra:
 nav:
   - 'Welcome': index.md
   - 'Getting started':
+      - 'Quickstart': quickstart.md
       - 'Features': features.md
-      - 'Create an account': account.md
-      - 'Your first database': first-db.md
+      - 'Beta program': beta-program.md
+      - 'Free tier': free-tier.md
   - 'Deployment modes':
       - 'Public DBaaS': mode-dbaas.md
       - 'BYOA': mode-byoa.md
@@ -181,5 +182,3 @@ nav:
       - 'Valkey': valkey.md
       - 'MySQL': mysql.md
       - 'FerretDB': ferretdb.md
-  - 'Beta program': beta-program.md
-
