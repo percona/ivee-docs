@@ -41,3 +41,6 @@ Gain insights into your database performance with Ivee's integrated monitoring a
 **Note:** Feature availability may vary depending on the selected database and cloud provider. Refer to the specific database documentation for details.
 
 *We're continuously adding new features and integrations. Stay tuned for updates!*
+
+[About Beta program :material-arrow-right:](beta-program.md){.md-button} [About Free Tier :material-arrow-right:](free-tier.md){.md-button}
+
