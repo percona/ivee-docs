@@ -175,10 +175,10 @@ nav:
       - 'Beta program': beta-program.md
       - 'Free tier': free-tier.md
   - 'Deployment modes':
-      - 'Public DBaaS': mode-dbaas.md
-      - 'BYOA': mode-byoa.md
+      - 'Public DBaaS': deploy/mode-dbaas.md
+      - 'Bring Your Own Account': deploy/mode-byoa.md
   - 'Services':
-      - 'PostgreSQL': postgresql.md
-      - 'Valkey': valkey.md
-      - 'MySQL': mysql.md
-      - 'FerretDB': ferretdb.md
+      - 'PostgreSQL': services/postgresql.md
+      - 'Valkey': services/valkey.md
+      - 'MySQL': services/mysql.md
+      - 'FerretDB': services/ferretdb.md
