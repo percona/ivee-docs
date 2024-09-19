@@ -34,4 +34,4 @@ Ivee's Bring Your Own Account (BYOA) mode allows you to host your databases dire
 
 **BYOA gives you the best of both worlds: full control over your data and the convenience of Ivee's managed database service.**
 
-[Learn about Public DBaaS :material-arrow-right:](deploy/mode-public.md){.md-button } 
+[Learn about Public DBaaS :material-arrow-right:](./mode-public.md){.md-button } 
