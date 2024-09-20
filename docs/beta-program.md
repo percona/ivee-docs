@@ -1,4 +1,4 @@
-# Ivee Beta Program
+# Ivee beta program
 
 **Thank you for joining the Ivee beta!**
 

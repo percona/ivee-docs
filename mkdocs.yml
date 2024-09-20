@@ -173,10 +173,10 @@ nav:
       - 'Quickstart': quickstart.md
       - 'Features': features.md
       - 'Beta program': beta-program.md
-      - 'Free tier': free-tier.md
+      - 'Free Tier': free-tier.md
   - 'Deployment modes':
       - 'Public DBaaS': deploy/mode-public.md
-      - 'Bring Your Own Account': deploy/mode-byoa.md
+      - 'Bring your own account': deploy/mode-byoa.md
   - 'Services':
       - 'PostgreSQL': services/postgresql.md
       - 'Valkey': services/valkey.md
