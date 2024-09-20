@@ -9,7 +9,7 @@ reliability, and ease of use. With Ivee, you can deploy and manage [Percona Serv
 
 Ivee currently supports the following MySQL versions:
 
-* 5.7 (available under [Percona EoL program](https://www.percona.com/post-mysql-5-7-eol-support)
+* 5.7 (available under [Percona EoL program](https://www.percona.com/post-mysql-5-7-eol-support))
 * 8.0 (the only version available in a Free Tier)
 * 8.4
 

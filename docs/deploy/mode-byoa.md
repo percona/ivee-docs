@@ -11,12 +11,12 @@ Ivee's Bring Your Own Account (BYOA) mode allows you to host your databases dire
 ## Getting Started with BYOA
 
 1. **Add Your Account:**
-   * In the Ivee portal, navigate to "Account Configs".
-   * Follow the prompts to securely add your AWS or GCP account credentials.
+    * In the Ivee portal, navigate to "Account Configs".
+    * Follow the prompts to securely add your AWS or GCP account credentials.
 
 2. **Create a Database:**
-   * When creating a new database, select the "BYOA" deployment mode.
-   * Choose the cloud provider and account you've added.
+    * When creating a new database, select the "BYOA" deployment mode.
+    * Choose the cloud provider and account you've added.
 
 ## Benefits of BYOA
 
