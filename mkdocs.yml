@@ -97,7 +97,7 @@ markdown_extensions:
   pymdownx.snippets:
       base_path: ["snippets"]
       auto_append:
-        - services-banner.md
+        - feedback-banner.md
   pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -168,5 +168,17 @@ extra:
             Thank you for your feedback! Help us improve by following this <a href="https://docs.google.com/forms/d/1bkWACehjqlwA0AKf-qTJcXvYbOSYgze8iTPXjntqmNo/edit" target="_blank" rel="noopener">feedback form</a>.
 
 nav:
-  - 'Home': 'index.md'
-
+  - 'Home': index.md
+  - 'Getting started':
+      - 'Quickstart': quickstart.md
+      - 'Features': features.md
+      - 'Beta program': beta-program.md
+      - 'Free Tier': free-tier.md
+  - 'Deployment modes':
+      - 'Public DBaaS': deploy/mode-public.md
+      - 'Bring your own account': deploy/mode-byoa.md
+  - 'Services':
+      - 'PostgreSQL': services/postgresql.md
+      - 'Valkey': services/valkey.md
+      - 'MySQL': services/mysql.md
+      - 'FerretDB': services/ferretdb.md
