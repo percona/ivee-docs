@@ -1,8 +1,8 @@
-# Ivee Features
+# Ivee features
 
 Ivee offers a powerful set of features to simplify your database management and enhance your application development experience.
 
-## Multi-Cloud Flexibility
+## Multi-cloud flexibility
 
 Deploy your databases in the public cloud of your choice:
 
@@ -10,7 +10,7 @@ Deploy your databases in the public cloud of your choice:
 * **GCP:** Google Cloud Platform
 * **Azure:** *Coming Soon*
 
-## Multi-Database Support
+## Multi-database support
 
 Choose from a variety of popular database technologies:
 
@@ -24,11 +24,11 @@ Choose from a variety of popular database technologies:
 * **ClickHouse**
 * **OpenSearch**
 
-## High Availability
+## High availability
 
 Ensure your data is always accessible with Ivee's built-in high availability features. Deploy your databases across multiple availability zones for enhanced resilience and uptime.
 
-## Serverless Experience
+## Serverless experience
 
 Optimize costs and resource usage with Ivee's serverless capabilities. 
 Instances are automatically scaled down to zero when not in use, eliminating unnecessary expenses.
@@ -38,11 +38,11 @@ Instances are automatically scaled down to zero when not in use, eliminating unn
 Handle fluctuating workloads effortlessly with Ivee's autoscaling feature. Compute resources are automatically scaled up or down based on demand, 
 ensuring optimal performance and cost efficiency. Storage is automatically scaled up when disk usage reaches certaing threshold. 
 
-## Backups and Restores
+## Backups and restores
 
 Safeguard your data with automated backups and easy point-in-time recovery. Restore your database to any specific point in time with just a few clicks.
 
-## Built-in Observability
+## Built-in observability
 
 Gain insights into your database performance with Ivee's integrated monitoring and observability tools. Track key metrics, identify bottlenecks, and optimize your database operations.
 

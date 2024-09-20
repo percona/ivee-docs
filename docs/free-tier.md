@@ -1,26 +1,26 @@
 # Ivee Free Tier
 
-## Experience Ivee at No Cost
+## Experience Ivee at no cost
 
 The Ivee Free Tier lets you explore and experiment with our DBaaS platform without any financial commitment. 
 It's a great way to get hands-on experience and see how Ivee can benefit your projects.
 
-## Important Notes
+## Important notes
 
-* **Subject to Change:** The specifics of the Free Tier, including limitations and available resources, may change as we evolve the platform.
+* **Subject to change:** The specifics of the Free Tier, including limitations and available resources, may change as we evolve the platform.
 
 ## Current Limitations
 
 * **Public DBaaS:** 
     * Deploy up to 1 database per supported technology (MySQL, PostgreSQL, Valkey, FerretDB).
-* **Bring Your Own Account (BYOA):**
+* **Bring your own account (BYOA):**
     * Deploy up to 5 databases per supported technology.
-* **High Availability:** High availability configurations are not available in the Free Tier.
-* **Instance Resources:**
+* **High availability:** High availability configurations are not available in the Free Tier.
+* **Instance resources:**
     * 1 CPU core
     * 2 GB RAM
     * 16 GB storage
-* **Serverless Pause:** Instances will automatically pause if there are no active connections or activity for a period of time.
+* **Serverless pause:** Instances will automatically pause if there are no active connections or activity for a period of time.
 This helps conserve resources and keep your usage within the Free Tier limits.
 
 ---

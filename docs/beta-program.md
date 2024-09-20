@@ -4,9 +4,9 @@
 
 Your feedback is vital as we prepare for launch.
 
-* **Beta Period:** September 1 - December 31, 2024
+* **Beta period:** September 1 - December 31, 2024
 * **Access:** Core Ivee features for testing
-* **Your Role:** Explore and provide feedback via [ivee@percona.com](mailto:ivee@percona.com)
+* **Your role:** Explore and provide feedback via [ivee@percona.com](mailto:ivee@percona.com)
 
 **Important:**
 

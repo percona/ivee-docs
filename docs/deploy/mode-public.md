@@ -1,28 +1,28 @@
 # Public DBaaS
 
-## Simplicity and Convenience
+## Simplicity and convenience
 
 Ivee's Public DBaaS mode is the quickest and easiest way to get started. 
 We handle all the infrastructure and management, allowing you to focus solely on your applications.
 
-## Key Advantages
+## Key advantages
 
-* **Zero Configuration:** No need to set up or manage cloud accounts or infrastructure.
-* **Instant Deployment:** Launch databases in minutes with a few clicks.
-* **Fully Managed:** We take care of backups, scaling, security, and maintenance.
-* **Free Tier:** Ideal for testing and small projects, with limitations on resources and database count.
+* **Zero configuration:** No need to set up or manage cloud accounts or infrastructure.
+* **Instant deployment:** Launch databases in minutes with a few clicks.
+* **Fully managed:** We take care of backups, scaling, security, and maintenance.
+* **Free tier:** Ideal for testing and small projects, with limitations on resources and database count.
 
-## When to Choose Public DBaaS
+## When to choose public DBaaS
 
-* **Rapid Prototyping:** Get your ideas off the ground quickly without infrastructure hassles.
-* **Ease of Use:** Perfect for users who want a simple, managed database solution.
-* **Cost Efficiency:** Pay only for the resources you use, with no upfront investment.
+* **Rapid prototyping:** Get your ideas off the ground quickly without infrastructure hassles.
+* **Ease of use:** Perfect for users who want a simple, managed database solution.
+* **Cost efficiency:** Pay only for the resources you use, with no upfront investment.
 
-## Important Notes
+## Important notes
 
-* **Data Residency:** Your data is stored on Percona's cloud infrastructure.
-* **Free Tier Limitations:** The Free Tier allows for up to 1 database per technology in Public DBaaS mode.
-* **Enterprise Needs:** For large-scale deployments or specific compliance requirements, consider BYOA mode.
+* **Data residency:** Your data is stored on Percona's cloud infrastructure.
+* **Free Tier limitations:** The Free Tier allows for up to 1 database per technology in Public DBaaS mode.
+* **Enterprise needs:** For large-scale deployments or specific compliance requirements, consider BYOA mode.
 
 ---
 
