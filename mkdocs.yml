@@ -178,9 +178,12 @@ nav:
       - 'Public DBaaS': deploy/mode-public.md
       - 'Bring your own account': deploy/mode-byoa.md
   - 'Services':
-     - 'PostgreSQL': services/postgresql.md 
-        - 'Example':
-           - smth.md
+     - 'PostgreSQL': 
+         - services/postgresql.md 
+         - 'Example':
+            - smth.md
       - 'Valkey': services/valkey.md
       - 'MySQL': services/mysql.md
       - 'FerretDB': services/ferretdb.md
+
+      
