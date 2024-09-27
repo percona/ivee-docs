@@ -57,3 +57,9 @@ LIMIT 1;
 ```
 
 This query uses the `<->` operator to calculate the Euclidean distance between vectors.
+
+* Clean up - drop the table:
+
+```
+DROP TABLE items;
+```
