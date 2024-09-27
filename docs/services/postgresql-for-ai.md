@@ -17,7 +17,7 @@ With Ivee for PostgreSQL you can easily enable `pgvector` extension and unlock a
    psql -U your_username -h ivee_pg_host -p ivee_pg_port
    ```
 
-You define the username at the cluster creation time. The host and the port can be obtained from *Connectivity* tab in Ivee portal.
+You define the username at the cluster creation time. The host and the port can be obtained from *Connectivity* tab in [Ivee portal](https://app.ivee.cloud).
 
 * Enable pgvector extension:
 
