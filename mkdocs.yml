@@ -180,8 +180,8 @@ nav:
   - Services:
     - PostgreSQL: 
       - services/postgresql.md 
-      - Example:
-        - smth.md
+      - For AI:
+        - services/postgresql-for-ai.md
     - Valkey: services/valkey.md
     - MySQL: services/mysql.md
     - FerretDB: services/ferretdb.md
