@@ -171,15 +171,12 @@ nav:
   - Home: index.md
   - Getting started:
       - Quickstart: quickstart.md
-      - Features: features.md
       - Beta program: beta-program.md
       - Free Tier: free-tier.md
   - Features:
     - features/features.md
-    - Backups: 
-      - features/backups.md
-    - Autoscaling and serverless:
-      - features/autoscaling.md
+    - Backups: features/backups.md
+    - Autoscaling and serverless: features/autoscaling.md
     - Deployment modes:
       - Public DBaaS: 
         - deploy/mode-public.md
