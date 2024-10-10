@@ -27,4 +27,4 @@ Let's get your first database up and running quickly.
 You now have a fully managed database ready for your applications. 
 Explore the rest of our documentation to learn about advanced features, backups, security, and more.
 
-[Read more about features :material-arrow-right:](features.md){.md-button}
+[Read more about features :material-arrow-right:](features/features.md){.md-button}
