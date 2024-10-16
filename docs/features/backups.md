@@ -5,7 +5,7 @@ Our backup system is designed to provide:
 
 * **Automated Backups:** We take care of your backups, so you don't have to.  No manual intervention is required.
 * **Incremental Backups:**  Ivee utilizes incremental backups, capturing only the changes made since the last backup.
-* This minimizes storage space and backup time, which lowers your cloud bill even further in [Bring Your Own Account mode](deploy/mode-byoa.md).
+* This minimizes storage space and backup time, which lowers your cloud bill even further in [Bring Your Own Account mode](/deploy/mode-byoa.md).
 * **Data Consistency:**  Our backup process guarantees data consistency, ensuring you can reliably restore to any point in time.
 * **Low RPO:** Incremental backups contribute to a low Recovery Point Objective (RPO), meaning minimal data loss in case of a failure.
 
