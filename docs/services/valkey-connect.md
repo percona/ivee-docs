@@ -49,4 +49,4 @@ password   = YOUR_PASSWORD
 connect_and_push_redis(host, port, user, password)
 ```
 
-Deploy Valkey for free now - [go to Ivee portal](https://app.ivee.cloud).
+[Deploy Valkey for free now:material-arrow-right:](https://app.ivee.cloud){.md-button } 
