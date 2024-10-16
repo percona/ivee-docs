@@ -189,7 +189,10 @@ nav:
       - services/postgresql.md 
       - For AI:
         - services/postgresql-for-ai.md
-    - Valkey: services/valkey.md
+    - Valkey: 
+      - services/valkey.md
+      - Connect to Valkey:
+        - services/valkey-connect.md
     - MySQL: services/mysql.md
     - FerretDB: services/ferretdb.md
 
