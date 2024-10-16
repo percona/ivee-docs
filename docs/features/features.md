@@ -14,10 +14,10 @@ Deploy your databases in the public cloud of your choice:
 
 Choose from a variety of popular database technologies:
 
-* **MySQL:** [Learn More](services/mysql.md)
-* **PostgreSQL:** [Learn More](services/postgresql.md)
-* **Valkey:** [Learn More](services/valkey.md)
-* **FerretDB:** [Learn More](services/ferretdb.md)
+* **MySQL:** [Learn More](../services/mysql.md)
+* **PostgreSQL:** [Learn More](../services/postgresql.md)
+* **Valkey:** [Learn More](../services/valkey.md)
+* **FerretDB:** [Learn More](../services/ferretdb.md)
 
 *Coming Soon:*
 
@@ -52,5 +52,5 @@ Gain insights into your database performance with Ivee's integrated monitoring a
 
 *We're continuously adding new features and integrations. Stay tuned for updates!*
 
-[About Beta program :material-arrow-right:](beta-program.md){.md-button} [About Free Tier :material-arrow-right:](free-tier.md){.md-button}
+[About Beta program :material-arrow-right:](../beta-program.md){.md-button} [About Free Tier :material-arrow-right:](../free-tier.md){.md-button}
 
