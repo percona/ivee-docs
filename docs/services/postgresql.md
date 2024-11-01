@@ -11,13 +11,9 @@ allowing you to focus on innovation, not database administration.
 
 Ivee currently supports the following PostgreSQL versions:
 
-* 13
 * 14
 * 15
 * 16
-
-*Coming Soon:*
-
 * 17
 
 ## PostgreSQL for AI
