@@ -31,7 +31,7 @@ Your database is ready for vector data.
 
 You can quickly validate if pgvector works as expected by running the following commands:
 
-* Create a simple table
+* Create a simple table:
 
     ```
     CREATE TABLE items (
