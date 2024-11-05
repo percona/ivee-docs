@@ -12,7 +12,7 @@ Our backup system is designed to provide:
 ## Backup Configuration and Schedule
 
 The frequency and retention period of your backups depend on the tier you choose. For example, in a free tier
-we take backups every 6 hours and store them for 3 days. Whereas for production workloads, we backups are stored every
+we take backups every 6 hours and store them for 3 days. Whereas for production workloads, backups are stored every
 5 minutes and kept for 30 days.
 
 This means that in the unlikely event of data loss, you can quickly restore your database to a recent state,
