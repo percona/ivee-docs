@@ -9,7 +9,7 @@ Our backup system is designed to provide:
 * **Data Consistency:**  Our backup process guarantees data consistency, ensuring you can reliably restore to any point in time.
 * **Low RPO:** Incremental backups contribute to a low Recovery Point Objective (RPO), meaning minimal data loss in case of a failure.
 
-**Backup Configuration and Schedule:**
+## Backup Configuration and Schedule
 
 The frequency and retention period of your backups depend on the tier you choose. For example, in a free tier
 we take backups every 6 hours and store them for 3 days. Whereas for production workloads, we backups are stored every
