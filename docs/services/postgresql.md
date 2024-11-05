@@ -2,9 +2,9 @@
 
 ## The advanced open source relational database
 
-PostgreSQL is a powerful, highly extensible open source object-relational database system known for its robustness, 
-data integrity, and rich feature set. Ivee provides a fully managed PostgreSQL experience, 
-powered by [Percona Distribution for PostgreSQL](https://www.percona.com/postgresql/software/postgresql-distribution), 
+PostgreSQL is a powerful, highly extensible open source object-relational database system known for its robustness,
+data integrity, and rich feature set. Ivee provides a fully managed PostgreSQL experience,
+powered by [Percona Distribution for PostgreSQL](https://www.percona.com/postgresql/software/postgresql-distribution),
 allowing you to focus on innovation, not database administration.
 
 ## Supported versions
@@ -18,13 +18,13 @@ Ivee currently supports the following PostgreSQL versions:
 
 ## PostgreSQL for AI
 
-Leverage the power of `pgvector` to build and deploy Retrieval Augmented Generation (RAG) applications 
-directly within your PostgreSQL database. Ivee makes it easy to integrate AI capabilities into your data-driven projects.
+Leverage the power of `pgvector` to build and deploy Retrieval Augmented Generation (RAG) applications
+directly within your PostgreSQL database. Ivee makes it easy to [integrate AI capabilities](postgresql-for-ai.md) into your data-driven projects.
 
 ## PostgreSQL for timeseries
 
-Harness the capabilities of TimescaleDB, a powerful time-series extension for PostgreSQL, 
-to efficiently store, query, and analyze time-series data. Ivee simplifies the management of 
+Harness the capabilities of TimescaleDB, a powerful time-series extension for PostgreSQL,
+to efficiently store, query, and analyze time-series data. Ivee simplifies the management of
 TimescaleDB, enabling you to focus on extracting insights from your time-series workloads.
 
 ## Instance and connectivity
