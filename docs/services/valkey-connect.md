@@ -1,17 +1,18 @@
 # Connecting to a Valkey Server
 
-This document describes how to connect to a Valkey server. You must have the instance endpoint, and then you can use either of the following methods: 
+This document describes how to connect to a Valkey server. You must have the instance endpoint, and then you can use either of the following methods:
+
 * `valkey-cli` command-line interface
 * Python with `redis-py` library
 
 ## 0. Get the endpoint
 
-To get the endpoint to connect to, go to [Ivee portal](https://app.ivee.cloud) and in the "Instances" choose the Valkey instance. 
+To get the endpoint to connect to, go to [Ivee portal](https://app.ivee.cloud) and in the "Instances" choose the Valkey instance.
 In the "Connectivity" section you will find the Global endpoint and the Port.
 
 ## 1. Connect with `valkey-cli`
 
-`valkey-cli` is a command-line interface (CLI) for interacting with Valkey servers. 
+`valkey-cli` is a command-line interface (CLI) for interacting with Valkey servers.
 The CLI allows you to execute commands, inspect data, and manage your Valkey instance.
 
 To connect, simply open your terminal and type:
@@ -49,4 +50,4 @@ password   = YOUR_PASSWORD
 connect_and_push_redis(host, port, user, password)
 ```
 
-[Deploy Valkey for free now:material-arrow-right:](https://app.ivee.cloud){.md-button } 
+[Deploy Valkey for free now:material-arrow-right:](https://app.ivee.cloud){.md-button }
