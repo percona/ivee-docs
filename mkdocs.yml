@@ -96,8 +96,8 @@ markdown_extensions:
   pymdownx.inlinehilite: {}
   pymdownx.snippets:
       base_path: ["snippets"]
-      auto_append:
-        - feedback-banner.md
+#      auto_append:
+#        - feedback-banner.md
   pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -169,6 +169,7 @@ extra:
 
 nav:
   - Home: index.md
+  - get-help.md
   - Getting started:
       - Quickstart: quickstart.md
       - Beta program: beta-program.md
