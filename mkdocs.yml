@@ -196,5 +196,6 @@ nav:
         - services/valkey-connect.md
     - MySQL: services/mysql.md
     - FerretDB: services/ferretdb.md
+    - Percona Monitoring and Management: services/pmm.md
 
       
